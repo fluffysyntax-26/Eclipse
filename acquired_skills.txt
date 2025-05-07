@@ -1,0 +1,5 @@
+1.Veilstep (Cost: 2 Cube Aura)
+Bladebind (Cost: 2 Cube Aura)
+Veilstep (Cost: 3 Cube Aura)
+Veilstep (Cost: 4 Cube Aura)
+Veilstep (Cost: 5 Cube Aura)

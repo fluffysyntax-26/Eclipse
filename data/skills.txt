@@ -1,0 +1,19 @@
+Veilstep (Cost: 3 Cube Aura)
+Become unseen by suppressing your presence.
+Blend with the environment by slowing your breath and aura. Effective for stealth, escaping combat, or eavesdropping.
+
+Bloodsense (Cost: 2 Cube Aura)
+The scent of blood sings to you.
+Automatically detect living entities nearby. Number, proximity, and injury level become clear — even through walls or darkness.
+
+Echo Pulse (Cost: 4 Cube Aura)
+Tap the cube to release a silent wave of energy.
+Reveals hidden doors, traps, or illusions within a short radius. Can stun weak enemies if they’re unaware.
+
+Grave Memory (Cost: 3 Cube Aura)
+Touch the fallen. Witness their last thought.
+Absorb a flash of memory from a corpse, sometimes revealing secrets, enemy plans, or emotional echoes.
+
+Bladebind (Cost: 3 Cube Aura)
+The sword remembers your hand.
+Temporarily enhance your weapon with spectral energy. Attacks are faster, ignore some armor, and can strike incorporeal foes.
